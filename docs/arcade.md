@@ -3,13 +3,13 @@
 Temp text
 
 # Fbneo
-
+::: details
 - [Nightly ROMs + Support (Updated Monthly)](https://archive.org/download/2020_01_06_fbn/)
 - [1.0.0.2 ROMs + Support](https://archive.org/download/fbneo/)
 - [Full Non-Merged](https://archive.org/download/fbnarcade-fullnonmerged/arcade/)
-
+:::
 # MAME
-
+::: details
 - [0.266 Software List ROMs Merged](https://archive.org/download/mame-sl/mame-sl/)
 - [0.266 CHDs Merged](https://archive.org/download/MAME_0.225_CHDs_merged)
 - [0.265 ROMs Merged](https://archive.org/download/mame-merged/mame-merged/)
@@ -17,7 +17,7 @@ Temp text
 - [HBMAME 0.244 ROMs Merged](https://archive.org/download/hbmame_0244_roms)
 - [0.258 ROMs + CHDs + EXTRAs](https://archive.org/details/mame-chds-roms-extras-complete)
 - [Support Files](https://archive.org/download/mame-support/Support/)
-
+:::
 # Redump
 
 ::: details Myrient
